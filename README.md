@@ -1,2 +1,2 @@
-# ProductCatalog
-Curso #1976 balta.io 
+# 1976
+Criando sua primeira API com ASP.NET Core e Entity Framework Core
