@@ -12,3 +12,17 @@ C:\Projetos\dotnet\ProductCatalog\obj\Debug\netcoreapp2.1\ProductCatalog.Assembl
 C:\Projetos\dotnet\ProductCatalog\obj\Debug\netcoreapp2.1\ProductCatalog.RazorTargetAssemblyInfo.cache
 C:\Projetos\dotnet\ProductCatalog\obj\Debug\netcoreapp2.1\ProductCatalog.dll
 C:\Projetos\dotnet\ProductCatalog\obj\Debug\netcoreapp2.1\ProductCatalog.pdb
+C:\Projetos\ProductCatalog\bin\Debug\netcoreapp2.1\ProductCatalog.deps.json
+C:\Projetos\ProductCatalog\bin\Debug\netcoreapp2.1\ProductCatalog.runtimeconfig.json
+C:\Projetos\ProductCatalog\bin\Debug\netcoreapp2.1\ProductCatalog.runtimeconfig.dev.json
+C:\Projetos\ProductCatalog\bin\Debug\netcoreapp2.1\ProductCatalog.dll
+C:\Projetos\ProductCatalog\bin\Debug\netcoreapp2.1\ProductCatalog.pdb
+C:\Projetos\ProductCatalog\obj\Debug\netcoreapp2.1\ProductCatalog.csprojAssemblyReference.cache
+C:\Projetos\ProductCatalog\obj\Debug\netcoreapp2.1\ProductCatalog.csproj.CoreCompileInputs.cache
+C:\Projetos\ProductCatalog\obj\Debug\netcoreapp2.1\ProductCatalog.RazorAssemblyInfo.cache
+C:\Projetos\ProductCatalog\obj\Debug\netcoreapp2.1\ProductCatalog.RazorAssemblyInfo.cs
+C:\Projetos\ProductCatalog\obj\Debug\netcoreapp2.1\ProductCatalog.AssemblyInfoInputs.cache
+C:\Projetos\ProductCatalog\obj\Debug\netcoreapp2.1\ProductCatalog.AssemblyInfo.cs
+C:\Projetos\ProductCatalog\obj\Debug\netcoreapp2.1\ProductCatalog.RazorTargetAssemblyInfo.cache
+C:\Projetos\ProductCatalog\obj\Debug\netcoreapp2.1\ProductCatalog.dll
+C:\Projetos\ProductCatalog\obj\Debug\netcoreapp2.1\ProductCatalog.pdb
