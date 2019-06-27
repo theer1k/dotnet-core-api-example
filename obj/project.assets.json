@@ -11813,6 +11813,7 @@
       "Flunt >= 1.0.3",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Mvc >= 2.1.1",
+      "Microsoft.AspNetCore.ResponseCompression >= 2.1.1",
       "Microsoft.EntityFrameworkCore >= 2.1.8",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
@@ -11869,6 +11870,10 @@
             "autoReferenced": true
           },
           "Microsoft.AspNetCore.Mvc": {
+            "target": "Package",
+            "version": "[2.1.1, )"
+          },
+          "Microsoft.AspNetCore.ResponseCompression": {
             "target": "Package",
             "version": "[2.1.1, )"
           },
