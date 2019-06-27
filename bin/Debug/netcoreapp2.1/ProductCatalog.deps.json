@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "5bec77c6beb5b8b605ed181e5aae50ab9ace0f57"
+    "signature": "b27e45b6733915b6f650bf20dc5b03f752ed675a"
   },
   "compilationOptions": {
     "defines": [
@@ -24,6 +24,7 @@
     ".NETCoreApp,Version=v2.1": {
       "ProductCatalog/1.0.0": {
         "dependencies": {
+          "Flunt": "1.0.3",
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Mvc": "2.1.1",
           "Microsoft.EntityFrameworkCore": "2.1.8",
@@ -34,6 +35,17 @@
         },
         "compile": {
           "ProductCatalog.dll": {}
+        }
+      },
+      "Flunt/1.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Flunt.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Flunt.dll": {}
         }
       },
       "Microsoft.EntityFrameworkCore/2.1.8": {
@@ -3179,6 +3191,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Flunt/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7/wzY8uowlaM5Xydj428PdF1yp1bfuSEm5ONqnx4xiEbPv/zfGLNQoJQVNzU7cqmt3MmvJEGrCCEg7T1NHFdmA==",
+      "path": "flunt/1.0.3",
+      "hashPath": "flunt.1.0.3.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore/2.1.8": {
       "type": "package",
