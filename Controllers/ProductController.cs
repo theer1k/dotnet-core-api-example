@@ -32,6 +32,7 @@ namespace ProductCatalog.Controllers
 
         [Route("v1/products")]
         [HttpPost]
+        [ResponseCache(Duration = 5)]
         public ResultViewModel Post([FromBody]EditorProductViewModel model)
         {
             model.Validate();
